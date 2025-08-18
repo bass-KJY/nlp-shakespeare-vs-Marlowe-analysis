@@ -70,9 +70,9 @@ These were manually selected based on thematic and narrative similarities.
 - (1). The Jew of Malta vs The Merchant of Venice
 ![The Jew of Malta vs The Merchant of Venice.](images/The_Jew_of_Malta_vs_The_Merchant_of_Venice.png)
 - (2). Tamburlaine the Great vs Macbeth
-![Tamburlaine the Great vs Macbeth](images/TamburlainetheGreatvsMacbeth.png)
+![Tamburlaine the Great vs Macbeth](images/Tamburlaine_the_Great_vs_Macbeth.png)
 - (3). The Tragical History of Doctor Faustus vs Richard Ⅲ
-![The Tragical History of Doctor Faustus vs Richard Ⅲ](images/TheTragicalHistoryofDoctorFaustusvsRichardⅢ.png)
+![The Tragical History of Doctor Faustus vs Richard Ⅲ](images/The_Tragical_History_of_Doctor_Faustus_vs_Richard_Ⅲ.png)
 
 ### 2. **Topic Modeling (Keyword Analysis)**
 - Objective: Reveal dominant themes in each genre
