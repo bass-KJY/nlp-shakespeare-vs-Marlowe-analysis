@@ -68,11 +68,11 @@ These were manually selected based on thematic and narrative similarities.
 
 #### B. Sentiment Analysis Comparison
 - (1). The Jew of Malta vs The Merchant of Venice
-  - ![The Jew of Malta vs The Merchant of Venice.](images/TheJewofMaltavsTheMerchantofVenice.png)
+![The Jew of Malta vs The Merchant of Venice.](images/TheJewofMaltavsTheMerchantofVenice.png)
 - (2). Tamburlaine the Great vs Macbeth
-  - ![Tamburlaine the Great vs Macbeth](images/TamburlainetheGreatvsMacbeth.png)
+![Tamburlaine the Great vs Macbeth](images/TamburlainetheGreatvsMacbeth.png)
 - (3). The Tragical History of Doctor Faustus vs Richard Ⅲ
-  - ![The Tragical History of Doctor Faustus vs Richard Ⅲ](images/TheTragicalHistoryofDoctorFaustusvsRichardⅢ.png)
+![The Tragical History of Doctor Faustus vs Richard Ⅲ](images/TheTragicalHistoryofDoctorFaustusvsRichardⅢ.png)
 
 ### 2. **Topic Modeling (Keyword Analysis)**
 - Objective: Reveal dominant themes in each genre
