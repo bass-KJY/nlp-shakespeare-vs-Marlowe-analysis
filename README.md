@@ -80,6 +80,7 @@ These were manually selected based on thematic and narrative similarities.
   - Removed stopwords
   - Applied LDA to group terms into genre-related topics
 - Output: Top keywords per genre
+![Topic Modeling](images/Topic_Modeling.png)
 
 ### 3. **Sentence Similarity**
 - Objective: Quantify textual similarity between authors
@@ -87,7 +88,7 @@ These were manually selected based on thematic and narrative similarities.
   - Embedded each sentence using MiniLM
   - Calculated cosine similarity between play pairs
   - Kept only scores ≥ 0.7
-
+![Sentence_Similarity](images/Sentence_Similarity)
 ---
 
 ## Results Summary
