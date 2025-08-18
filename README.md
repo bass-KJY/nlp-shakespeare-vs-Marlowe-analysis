@@ -34,7 +34,7 @@ These were manually selected based on thematic and narrative similarities.
 - **Note**: Fully structured with no missing values.
 
 ### 2. Marlowe Corpus (HTML → CSV)
-- **Source**: Original HTML versions of Marlowe’s works
+- **Source**: Original HTML versions of Marlowe’s works from Project Gutenberg
 - **Preprocessing**:
   - Removed stage directions and irrelevant text
   - Split by character and dialogue
@@ -62,6 +62,9 @@ These were manually selected based on thematic and narrative similarities.
   - Normalized sentiment over play length
   - Smoothed scores to reveal narrative trajectories
 - Visualization: Line graphs showing shifts in sentiment over acts
+
+#### A. Sentiment Analysis by Gerne of Shaspeaere Plays
+- ![Each graph(Comedy, History, Tragedy) shows distinctions. Especially, Comedy's sentimental graph for the last part is rising, which means it is positive, but the tragedy is descending. (image/sentiment_change_gerne.png)
 
 ### 2. **Topic Modeling (Keyword Analysis)**
 - Objective: Reveal dominant themes in each genre
