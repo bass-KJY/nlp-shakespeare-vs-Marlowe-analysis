@@ -68,7 +68,7 @@ These were manually selected based on thematic and narrative similarities.
 
 #### B. Sentiment Analysis Comparison
 - (1). The Jew of Malta vs The Merchant of Venice
-![The Jew of Malta vs The Merchant of Venice.](images/TheJewofMaltavsTheMerchantofVenice.png)
+![The Jew of Malta vs The Merchant of Venice.](images/The_Jew_of_Malta_vs_The_Merchant_of_Venice.png)
 - (2). Tamburlaine the Great vs Macbeth
 ![Tamburlaine the Great vs Macbeth](images/TamburlainetheGreatvsMacbeth.png)
 - (3). The Tragical History of Doctor Faustus vs Richard Ⅲ
