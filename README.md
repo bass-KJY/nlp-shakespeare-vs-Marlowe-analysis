@@ -66,6 +66,10 @@ These were manually selected based on thematic and narrative similarities.
 #### A. Sentiment Analysis by Gerne of Shaspeaere Plays
 ![Each graph(Comedy, History, Tragedy) shows distinctions. Especially, Comedy's sentimental graph for the last part is rising, which means it is positive, but the tragedy is descending.](images/sentiment_change_gerne.png)
 
+#### B. Sentiment Analysis Comparison
+(1). The Jew of Malta vs The Merchant of Venice
+![The Jew of Malta vs The Merchant of Venice](images/The Jew of Malta vs The Merchant of Venice.png) 
+
 ### 2. **Topic Modeling (Keyword Analysis)**
 - Objective: Reveal dominant themes in each genre
 - Process:
