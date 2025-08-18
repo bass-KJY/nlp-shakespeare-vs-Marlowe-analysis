@@ -64,7 +64,7 @@ These were manually selected based on thematic and narrative similarities.
 - Visualization: Line graphs showing shifts in sentiment over acts
 
 #### A. Sentiment Analysis by Gerne of Shaspeaere Plays
-- ![Each graph(Comedy, History, Tragedy) shows distinctions. Especially, Comedy's sentimental graph for the last part is rising, which means it is positive, but the tragedy is descending. (image/sentiment_change_gerne.png)
+![Each graph(Comedy, History, Tragedy) shows distinctions. Especially, Comedy's sentimental graph for the last part is rising, which means it is positive, but the tragedy is descending. (images/sentiment_change_gerne.png)
 
 ### 2. **Topic Modeling (Keyword Analysis)**
 - Objective: Reveal dominant themes in each genre
