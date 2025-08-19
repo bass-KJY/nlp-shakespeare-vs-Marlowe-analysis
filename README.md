@@ -91,7 +91,7 @@ In the ending sections of the works, the emotional differences between comedies 
   - Embedded each sentence using MiniLM
   - Calculated cosine similarity between play pairs
   - Kept only scores ≥ 0.7
-![Sentence_Similarity](images/Sentence_Similarity)
+![Sentence_Similarity](images/Sentence_Similarity.png)
 ---
 
 ## Results Summary
