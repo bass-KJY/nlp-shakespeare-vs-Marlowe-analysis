@@ -65,6 +65,9 @@ These were manually selected based on thematic and narrative similarities.
 
 #### A. Sentiment Analysis by Gerne of Shaspeaere Plays
 ![Each graph(Comedy, History, Tragedy) shows distinctions. Especially, Comedy's sentimental graph for the last part is rising, which means it is positive, but the tragedy is descending.](images/sentiment_change_gerne.png)
+- Results of the emotional narrative structure analysis: the narratives in the early to middle sections of comedies and tragedies are similar.
+Additionally, there are certain points where the emotional trajectory changes abruptly, and these points coincide in both genres (indicated by red circles).
+In the ending sections of the works, the emotional differences between comedies and tragedies become pronounced.
 
 #### B. Sentiment Analysis Comparison
 - (1). The Jew of Malta vs The Merchant of Venice
