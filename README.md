@@ -72,8 +72,10 @@ In the ending sections of the works, the emotional differences between comedies 
 #### B. Sentiment Analysis Comparison
 - (1). The Jew of Malta vs The Merchant of Venice
 ![The Jew of Malta vs The Merchant of Venice.](images/The_Jew_of_Malta_vs_The_Merchant_of_Venice.png)
+
 - (2). Tamburlaine the Great vs Macbeth
 ![Tamburlaine the Great vs Macbeth](images/Tamburlaine_the_Great_vs_Macbeth.png)
+
 - (3). The Tragical History of Doctor Faustus vs Richard Ⅲ
 ![The Tragical History of Doctor Faustus vs Richard Ⅲ](images/The_Tragical_History_of_Doctor_Faustus_vs_Richard_Ⅲ.png)
 
@@ -91,7 +93,10 @@ In the ending sections of the works, the emotional differences between comedies 
   - Embedded each sentence using MiniLM
   - Calculated cosine similarity between play pairs
   - Kept only scores ≥ 0.7
+
 ![Sentence_Similarity](images/Sentence_Similarity.png)
+- Sentence similarity could not be used as an accurate measure, as there are many expressions frequently appearing in plays (indicated by blue boxes).
+However, in some cases, similar rhymes could be observed (indicated by red boxes).
 ---
 
 ## Results Summary
